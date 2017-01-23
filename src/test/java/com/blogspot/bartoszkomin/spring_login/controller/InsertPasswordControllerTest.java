@@ -6,7 +6,6 @@ import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 import javax.servlet.Filter;
-import javax.validation.constraints.AssertFalse;
 
 import org.junit.Before;
 import org.junit.Test;
